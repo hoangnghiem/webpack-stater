@@ -1,0 +1,9 @@
+$blue: blue;
+$yellow: yellow;
+
+@import 'body';
+@import 'layout';
+
+.blue {
+  background: $blue;
+}
